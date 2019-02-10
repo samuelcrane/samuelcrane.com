@@ -1,0 +1,10 @@
+theme = "hyde"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Samuel Crane"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  themeColor = "theme-base-0g"
+  description = "Hello. I am a data scientist and manager in New York City."
+  copyright = " "
