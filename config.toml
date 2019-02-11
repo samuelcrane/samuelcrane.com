@@ -1,5 +1,5 @@
 theme = "hyde"
-baseURL = "http://example.org/"
+baseURL = "https://youthful-blackwell-29b276.netlify.com/"
 languageCode = "en-us"
 title = "Samuel Crane"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
