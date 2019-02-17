@@ -207,6 +207,17 @@ img {
   max-width: 100%;
 }
 
+img[src$='#floatleft']
+{
+	float:left;
+	padding-right: 30px;
+}
+
+img[src$='#floatright']
+{
+	float:right;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
