@@ -1,6 +1,6 @@
 +++
 Description = ""
-Tags = ["Development", "golang"]
-Categories = ["Development", "GoLang"]
+Tags = ["R", "datascience"]
+Categories = ["R", "Data Science"]
 menu = "main"
 +++
