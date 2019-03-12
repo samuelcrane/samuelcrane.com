@@ -5,6 +5,6 @@ title = "Samuel Crane"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  themeColor = "theme-base-0g"
-  description = "Hello. I am a data scientist and tech manager in New York City."
+  themeColor = "theme-prussian"
+  description = "Hello. I am a data scientist & tech manager in New York City."
   copyright = " "

@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: 'Source Sans Pro', "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Source Serif Pro', serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,8 +79,9 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: 'Source Sans Pro', serif;
-  font-weight: 900;
+  font-family: 'Nunito Sans', 'Source Sans Pro', sans-serif;
+  font-style: italic;
+  font-weight: 200;
   font-size: 3.25rem;
 }
 
@@ -88,6 +89,7 @@ html {
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
+  font-family: 'Nunito Sans', 'Source Sans Pro', sans-serif;
 }
 .sidebar-nav-item {
   display: block;
@@ -248,13 +250,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
-}
-
-/* Prussian Blue */
-.theme-base-0g .sidebar {
-  background-color: #012e55;
-}
-.theme-base-0g .content a,
-.theme-base-0g .related-posts li a:hover {
-  color: #012e55;
 }

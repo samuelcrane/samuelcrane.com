@@ -1,0 +1,37 @@
+/*
+ * Customizations on Hyde
+ *
+ * Override certain Hyde and Poole settings
+ */
+ 
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito Sans', 'Source Sans Pro', "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+/* Prussian Blue */
+.theme-prussian .sidebar {
+  background-color: #012e55;
+}
+.theme-prussian .content a,
+.theme-prussian .related-posts li a:hover {
+  color: #012e55;
+}
+
+.lead {
+  font-family: 'Nunito Sans', 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-weight: 200;
+}
+
+/* Meta data line below post title */
+.post-date {
+  font-family: 'Nunito Sans', 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-weight: 200;
+}
+
+.figcaption {
+  font-family: 'Nunito Sans', 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  text-align: right;
+}
