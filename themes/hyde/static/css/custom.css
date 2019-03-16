@@ -3,7 +3,11 @@
  *
  * Override certain Hyde and Poole settings
  */
- 
+
+body {
+  color: #303030;
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Nunito Sans', 'Source Sans Pro', "PT Sans", Helvetica, Arial, sans-serif;
@@ -16,8 +20,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 .theme-prussian .content a,
 .theme-prussian .related-posts li a:hover {
-  color: #012e55;
+  color: #F55845
+  /*color: #AB8B6C;*/
 }
+
+/* Blog post or page title */
+.post .post-title a {
+  color: #303030;
+}
+
 
 .lead {
   font-family: 'Nunito Sans', 'Source Sans Pro', Helvetica, Arial, sans-serif;
