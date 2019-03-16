@@ -19,7 +19,7 @@ type: post
 
 
 <p class="lead">
-My Squarespace website was starting to feel just a bit tired and too constraining. The site served me well when I was in grad school but I hadn't kept it up to date with my career as I started work as a data scientist. These days I find myself wanting to write up the projects we're working on at Amplify but haven't been able to motivate myself. The thought of trying to write up R code in Squarespace's CMS was enough to keep from just never sharing. 
+I haven't been keeping my website up to date with my career as a data scientist and I'd love to start sharing more about the projects my team and I have been working on. I used to be on Squarespace and the thought of trying to write up R code in Squarespace's CMS was enough to keep me from just never sharing. 
 </p>
 
 No more! I've migrated over to blogdown and am hosting on Netlify. What follows is a short write up of the process and some of the custom configurations I've made. 
@@ -99,11 +99,11 @@ Here are some of the resources I found helpful.
 - [Complete List | Hugo Themes](https://themes.gohugo.io/)
 
 *— Samuel*
-
 <hr>
 
 
 <span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:10px;width:auto;position:relative;vertical-align:middle;top:2px;fill:black" viewBox="0 0 32 32"><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span class="figcaption">Lead photo by [Sarah Dorweiler](https://unsplash.com/@sarahdorweiler) on Unsplash</span>  
+
 
 
 

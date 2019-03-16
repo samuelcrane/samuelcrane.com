@@ -22,28 +22,33 @@ type: static
 I give talks on data science, R, career transitions for academics, edtech, and educational measurement. 
 </p>
 
-* *Data Science Speaker Series*  
+* [*Data Science Speaker Series*](https://www.eventbrite.com/e/data-science-speaker-series-tickets-51434386635)    
+  Panel discussion on careers in data science  
   at Rockefeller University, Data Science Initiative  
   2018-10-30  
   
-* [*A Closer Look: What is Data Analytics, and How to Build a Data-driven Team*](https://www.meetup.com/meetup-group-XwKEpidf/events/254075040/)   at the Looker NY meetup  
+* [*A Closer Look: What is Data Analytics, and How to Build a Data-driven Team*](https://www.meetup.com/meetup-group-XwKEpidf/events/254075040/)   
+  Panel discussion at the inaugral NYC Looker meetup  
+  at the Looker NY meetup  
   2018-09-13  
   
 * [*Science Alumni Mentoring Roundtable*](https://careerplan.commons.gc.cuny.edu/events/alumni-mentoring-roundtable-2018)  
   at CUNY Graduate Center  
   2018-02-08
   
-* *Comparative Biology as Data Science*  
-  at Career Paths Beyond Academia Workshop,   
-  American Museum of Natural History  
-  2016-04-15
-  
 * *Automated Scoring of Complex Technology-Enhanced Tasks in a Middle School Science Unit*  
+  Accepted talk on implementing a classification algorithm to score student work in an educational app.  
   at National Council on Measurement in Education (NCME),  
   annual conference.  
   2016-04-11
   
+* *Comparative Biology as Data Science*  
+  Presentation on career transition from academia to industry  
+  at American Museum of Natural History  
+  2015 and 2016 
+  
 * [*Adaptive Learning in Simulations & Games: Aspects of the response scoring process*](https://www.meetup.com/Educational-Data-Mining-Learning-Analytics-in-NYC/events/226208289/)  
+  A presentation on Amplify's evidence-centered design approach to educational apps  
   at Educational Data Mining and Learning Analytics meetup  
   2015-11-16
 
