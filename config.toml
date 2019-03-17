@@ -3,6 +3,7 @@ baseURL = "https://www.samuelcrane.com/"
 languageCode = "en-us"
 title = "Samuel Crane"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+googleAnalytics = "UA-136336886-1"
 
 [params]
   themeColor = "theme-prussian"
