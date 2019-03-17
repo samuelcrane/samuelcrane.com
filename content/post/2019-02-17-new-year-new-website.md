@@ -46,7 +46,7 @@ With those requirements in mind, here's the tech stack I've ended using:
 - [Hyde](http://hyde.getpoole.com/) a Jekyll theme ported to Hugo. 
 - [Typora](https://typora.io/) for drafting (because I'm a monster and still start drafting outside of RStudio).
 - [Google Fonts](https://fonts.google.com/) because apparently nothing is ever good enough for me and I love to fuss with fonts.
-- [Font Awesome Icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp) I love these little guys.
+- [Font Awesome Icons](https://www.w3schools.com/icons/fontawesome5_intro.asp) I love these little guys.
 
 
 
