@@ -18,7 +18,7 @@ type: post
 JOIN is Looker’s annual user conference. It’s a three-day event of user presentations, presentations by Looker employees, hands-on workshops, networking events, and a vendor fair. You know, conference stuff. This year, I attended as an invited presenter in the workshop section. Here are my highlights.
 
 ## My workshop on data documentation
-<img src="/./2019-11-14-looker-join_files/IMG_3580.JPG#floatleft" alt="Sign that reads Hands-on Labs" width="300px"/>
+<img src="/post/2019-11-14-looker-join_files/IMG_3580.JPG#floatleft" alt="Sign that reads Hands-on Labs" width="300px"/>
 The Hands-On Labs were a series on 45 minute workshops with limited seats. Attendees were expected to have their own laptops and were guided through an exercise. I hosted a lab on building data documentation around the Looker API, in partnership with an engineer from Looker. We ran the workshop on both days of the conference and both offerings were at capacity.  
 
 The workshop went well. There were really two parts: the Looker API part lead by Leigha Jarrett and the documentation part lead by me. Looker had created a sandboxed Looker instance with fake data for the workshops and Leigha set up a Python notebook to hit the API and pull out lookML info. Then, after we showed folks how to get lookML data represented as a data frame in Python, I talked about how I do that to build the Data Hub using R, `blogdown`, and Hugo. I talked about the value in creating a documentation page—basically and About Me—for each Explore and how we've been (slowly) building this out at Amplify. 
