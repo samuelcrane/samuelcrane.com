@@ -22,6 +22,16 @@ type: static
 I give talks on data science, R, career transitions for academics, edtech, and educational measurement. 
 </p>
 
+* [*Hands-on Lab: Amplify, Looker and the Central Source of Truth*](https://looker.com/events/join-2019/agenda)    
+  Two hands-on workshops about using the Looker API to pull metadata out of the lookML layer and use that in documentation systems.   
+  at Looker JOIN 2019 conference  
+  2019-11-06, 2019-11-07 
+
+* [*Continuous Documentation with Blogdown*](https://www.meetup.com/rladies-newyork/events/265361785/)    
+  Presentation on using `blogdown` to build a website for data documentation on top of a large data warehouse.  
+  at R-Ladies NYC meetup   
+  2019-10-22  
+
 * [*Data Science Speaker Series*](https://www.eventbrite.com/e/data-science-speaker-series-tickets-51434386635)    
   Panel discussion on careers in data science  
   at Rockefeller University, Data Science Initiative  
