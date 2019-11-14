@@ -27,7 +27,7 @@ The presentations are in this Looker repo:
 https://github.com/llooker/join2019_labs
 
 ## Looker 7  
-Looker announced version 7 and gave a presentation during the Thursday opening keynote on some of the new features. I walk through what I found to be the most interesting below. I’ll update this with video links to the keynote as they become available. Announcement here:
+Looker announced version 7 and gave a presentation during the Thursday opening keynote on some of the new features. I walk through what I found to be the most interesting below. I’ll update this with video links to the keynote as they become available. Announcement here:  
 https://looker.com/news/press/looker-announces-looker-7
 
 **Dashboard Filters**  
@@ -67,12 +67,12 @@ This is the thing I am personally most excited about. There’s not much informa
 There’s more that they covered—including new SDKs—that I haven’t mentioned. Hopefully they release video of the announcement keynote soon. 
 
 ## Presentations
-I went to a few of the talks, which were wildly variable in quality. Here I’ll highlight a couple of the ones I found useful. I expect the videos to be upload to Looker’s YouTube channel soon: https://www.youtube.com/user/LookerData/videos
+I went to a few of the talks, which were wildly variable in quality. Here I’ll highlight a couple of the ones I found useful. I expect the videos to be upload to Looker’s [YouTube channel soon](https://www.youtube.com/user/LookerData/videos).
 
 The full agenda is here: https://looker.com/events/join-2019/agenda
 
 #### Open Source Tools
-There’s a growing set of open source tools for working with Looker and LookML, including linters, parsers, generators, and more. This talk walked through the landscape, and is also presented as a blog post here: https://medium.com/@leapingllamas/2019-lookml-open-source-state-of-the-union-d0470012fed0
+There’s a growing set of open source tools for working with Looker and LookML, including linters, parsers, generators, and more. This talk walked through the landscape, and is also presented as a [blog post](https://medium.com/@leapingllamas/2019-lookml-open-source-state-of-the-union-d0470012fed0).
 
 Perhaps the most interesting development here is the open source toolkit from WW, called `lookml-tools`
 https://github.com/ww-tech/lookml-tools
